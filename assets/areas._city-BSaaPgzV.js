@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DGeXAQPT.js";import{u as t}from"./index-DwgHZTIY.js";import{t as n}from"./LocationPage-Cfc2rgAN.js";var r=e(),i=()=>{let{location:e}=t.useLoaderData();return(0,r.jsx)(n,{location:e})};export{i as component};

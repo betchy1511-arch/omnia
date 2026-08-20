@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DGeXAQPT.js";import{s as t}from"./index-DwgHZTIY.js";import{n,t as r}from"./treatments-Dy_vS3nv.js";var i=e(),a=()=>(0,i.jsx)(n,{category:`Injectables & Neurotoxins`,heroImage:t.url,content:r[`neurotoxin-injections`]});export{a as component};

@@ -1,0 +1,1 @@
+var e=`/omnia/assets/facial-rejuvenation-hero-Wm2ynwa6.jpg`;export{e as t};

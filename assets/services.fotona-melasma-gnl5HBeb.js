@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DGeXAQPT.js";import{n as t,t as n}from"./treatments-Dy_vS3nv.js";import{t as r}from"./fotona-hero.mp4.asset-QmMaUb4j.js";import{t as i}from"./facial-rejuvenation-hero-klIB2bah.js";var a=e(),o=()=>(0,a.jsx)(t,{category:`Fotona Laser & Skin Rejuvenation`,heroImage:i,heroVideo:r.url,content:n[`fotona-melasma`]});export{o as component};

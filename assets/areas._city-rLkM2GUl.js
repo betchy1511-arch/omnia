@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DGeXAQPT.js";var t=e(),n=()=>(0,t.jsx)(`div`,{className:`min-h-screen flex items-center justify-center bg-ivory text-noir`,children:(0,t.jsx)(`p`,{className:`text-sm tracking-[0.3em] uppercase`,children:`Location not found`})});export{n as notFoundComponent};

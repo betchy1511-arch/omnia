@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DGeXAQPT.js";import{t}from"./iv-therapy.png.asset-CXvGToAh.js";import{n,t as r}from"./treatments-Dy_vS3nv.js";var i=e(),a=()=>(0,i.jsx)(n,{category:`IV Vitamin Therapy`,heroImage:t.url,content:r[`high-dose-vitamin-c-iv`]});export{a as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DGeXAQPT.js";import{a as t}from"./index-DwgHZTIY.js";import{n,t as r}from"./treatments-Dy_vS3nv.js";import{t as i}from"./fotona-hero.mp4.asset-QmMaUb4j.js";var a=e(),o=()=>(0,a.jsx)(n,{category:`Fotona Laser & Skin Rejuvenation`,heroImage:t.url,heroVideo:i.url,content:r[`non-surgical-facial-rejuvenation`]});export{o as component};

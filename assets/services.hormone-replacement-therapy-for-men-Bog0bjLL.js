@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DGeXAQPT.js";import{c as t}from"./index-DwgHZTIY.js";import{n,t as r}from"./treatments-Dy_vS3nv.js";var i=e(),a=()=>(0,i.jsx)(n,{category:`Men's Wellness`,heroImage:t.url,content:r[`hormone-replacement-therapy-for-men`]});export{a as component};
