@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://omnia-luxe-studio.lovable.app/sitemap.xml
+# Preview mirror for client review only.
+# Every page carries <meta name="robots" content="noindex, nofollow">.
+# Crawling stays allowed so that tag is actually seen. Do not add a Disallow:
+# blocking a URL prevents Google reading the noindex and it can stay indexed.
